@@ -1,0 +1,14 @@
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\bin\Debug\DbConnection.exe.config
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\bin\Debug\DbConnection.exe
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\bin\Debug\DbConnection.pdb
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.csprojAssemblyReference.cache
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.Form1.resources
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.Properties.Resources.resources
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.GenerateResource.cache
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.exe
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.pdb
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.AddEmployee.resources
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.Employee.resources
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.UpdateEmployee.resources
+C:\Users\Thilakshika\source\repos\DbConnection\DbConnection\obj\Debug\DbConnection.DeleteEmployee.resources
